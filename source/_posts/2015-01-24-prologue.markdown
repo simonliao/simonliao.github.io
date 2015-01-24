@@ -3,7 +3,7 @@ layout: post
 title: "写在前面"
 date: 2015-01-24 14:31:08 +0800
 comments: true
-categories: Other
+categories: 杂谈{other}
 ---
 前些时间登上我的[CSDN博客](http://blog.csdn.net/lanxinju)才发现已经有四年没有写过博客了，以前还会在博客上记录一些技术细节，工作了之后就没有再写过，也许是由于自己懒了吧，当然我觉得还有一个历史遗留原因--小时候就讨厌写作文、写日记O(∩_∩)O~。
 
