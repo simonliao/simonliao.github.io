@@ -7,18 +7,18 @@
   
   <title>Hexo搭建Github博客配置 | Simon技术杂谈</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="配置自定义域名在Hexo工程下，创建文件： 1/source/CNAME 文件的内容添加上你的域名即可，例如： 1liao-xi.com">
+  <meta name="description" content="配置自定义域名在Hexo工程下，创建文件： 1/source/CNAME 文件的内容添加上你的域名即可，例如： 1liao-xi.com 自定义404页面 进入Github个人网站仓库，例如github.com/username/username.github.io。  在在Github个人网站仓库根目录中新建一个404.html，或者404.md文件。  在该404文件头部添加YAML标记，告诉">
 <meta name="keywords" content="Hexo,Github Pages">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hexo搭建Github博客配置">
 <meta property="og:url" content="http://liao-xi.com/2017/12/08/Some-Hexo-Configs/index.html">
 <meta property="og:site_name" content="Simon技术杂谈">
-<meta property="og:description" content="配置自定义域名在Hexo工程下，创建文件： 1/source/CNAME 文件的内容添加上你的域名即可，例如： 1liao-xi.com">
+<meta property="og:description" content="配置自定义域名在Hexo工程下，创建文件： 1/source/CNAME 文件的内容添加上你的域名即可，例如： 1liao-xi.com 自定义404页面 进入Github个人网站仓库，例如github.com/username/username.github.io。  在在Github个人网站仓库根目录中新建一个404.html，或者404.md文件。  在该404文件头部添加YAML标记，告诉">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2017-12-08T03:34:40.000Z">
+<meta property="og:updated_time" content="2017-12-08T04:45:28.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo搭建Github博客配置">
-<meta name="twitter:description" content="配置自定义域名在Hexo工程下，创建文件： 1/source/CNAME 文件的内容添加上你的域名即可，例如： 1liao-xi.com">
+<meta name="twitter:description" content="配置自定义域名在Hexo工程下，创建文件： 1/source/CNAME 文件的内容添加上你的域名即可，例如： 1liao-xi.com 自定义404页面 进入Github个人网站仓库，例如github.com/username/username.github.io。  在在Github个人网站仓库根目录中新建一个404.html，或者404.md文件。  在该404文件头部添加YAML标记，告诉">
   
     <link rel="alternate" href="/atom.xml" title="Simon技术杂谈" type="application/atom+xml">
   
@@ -95,11 +95,24 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/source/CNAME</span><br></pre></td></tr></table></figure>
 <p>文件的内容添加上你的域名即可，例如：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">liao-xi.com</span><br></pre></td></tr></table></figure>
+<h1 id="自定义404页面"><a href="#自定义404页面" class="headerlink" title="自定义404页面"></a>自定义404页面</h1><ol>
+<li><p>进入Github个人网站仓库，例如github.com/username/username.github.io。</p>
+</li>
+<li><p>在在Github个人网站仓库根目录中新建一个404.html，或者404.md文件。</p>
+</li>
+<li><p>在该404文件头部添加YAML标记，告诉系统该自定义404文件作为404文件使用。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">permalink: /404.html</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>在404文件中添加内容，推荐使用<a href="http://www.qq.com/404/" target="_blank" rel="noopener">公益404-腾讯</a>。</p>
+</li>
+<li><p>如果是使用Hexo，那么将该404文件放在/source/目录下。</p>
+</li>
+</ol>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://liao-xi.com/2017/12/08/Some-Hexo-Configs/" data-id="cjaxeocy60001eyxbhcxvcv4e" class="article-share-link">分享</a>
+      <a data-url="http://liao-xi.com/2017/12/08/Some-Hexo-Configs/" data-id="cjaxf31z50001fjxbf9y1w7w2" class="article-share-link">分享</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Github-Pages/">Github Pages</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/">Hexo</a></li></ul>
