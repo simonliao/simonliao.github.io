@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simon技术杂谈</title>
+  
+  <subtitle>面歧路者有行迷之虑,仰高山者有飞天之志</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://liao-xi.com/"/>
+  <updated>2017-12-08T02:49:50.000Z</updated>
+  <id>http://liao-xi.com/</id>
+  
+  <author>
+    <name>Simon Liao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some Hexo Configs</title>
+    <link href="http://liao-xi.com/2017/12/08/Some-Hexo-Configs/"/>
+    <id>http://liao-xi.com/2017/12/08/Some-Hexo-Configs/</id>
+    <published>2017-12-08T02:49:50.000Z</published>
+    <updated>2017-12-08T02:49:50.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写在前面</title>
+    <link href="http://liao-xi.com/2017/12/08/First-Of-All/"/>
+    <id>http://liao-xi.com/2017/12/08/First-Of-All/</id>
+    <published>2017-12-08T02:09:12.000Z</published>
+    <updated>2017-12-08T02:56:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>前些时间登上我的<a href="http://blog.csdn.net/lanxinju" target="_blank" rel="noopener">CSDN博客</a>才发现已经有八年没有写过博客了，以前还会在博客上记录一些技术细节，工作了之后更多是零散的记录在自己的电脑上，也许是由于自己懒了吧，当然我觉得还有一个历史遗留原因–小时候就讨厌写作文、写日记O(∩_∩)O~。</p><p>仔细回想了一下这几年所学到的知识，感觉由于没有详细整理，知识有些零零散散的，所以决定从现在开始继续写博客，通过这种方式，一方面梳理、总结所学到的知识，另一方面也可用锻炼自己的表达能力。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前些时间登上我的&lt;a href=&quot;http://blog.csdn.net/lanxinju&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CSDN博客&lt;/a&gt;才发现已经有八年没有写过博客了，以前还会在博客上记录一些技术细节，工作了之后更多是零散的记录在自
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://liao-xi.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://liao-xi.com/2017/12/08/hello-world/"/>
+    <id>http://liao-xi.com/2017/12/08/hello-world/</id>
+    <published>2017-12-08T02:02:47.000Z</published>
+    <updated>2017-12-08T02:02:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
