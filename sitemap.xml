@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://liao-xi.com/2017/12/08/Some-Hexo-Configs/</loc>
+    
+    <lastmod>2017-12-08T03:31:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://liao-xi.com/404.html</loc>
     
     <lastmod>2017-12-08T03:00:17.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://liao-xi.com/2017/12/08/First-Of-All/</loc>
     
     <lastmod>2017-12-08T02:56:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://liao-xi.com/2017/12/08/Some-Hexo-Configs/</loc>
-    
-    <lastmod>2017-12-08T02:49:50.000Z</lastmod>
     
   </url>
   
