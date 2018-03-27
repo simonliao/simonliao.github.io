@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liao-xi.com/"/>
-  <updated>2017-12-08T08:02:05.000Z</updated>
+  <updated>2018-03-27T22:42:53.770Z</updated>
   <id>http://liao-xi.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Gartner技术成熟度曲线</title>
+    <link href="http://liao-xi.com/2018/03/28/Gartner-Hype-Cycle-for-Emerging-Technologies/"/>
+    <id>http://liao-xi.com/2018/03/28/Gartner-Hype-Cycle-for-Emerging-Technologies/</id>
+    <published>2018-03-27T22:36:11.000Z</published>
+    <updated>2018-03-27T22:42:53.770Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2017年"><a href="#2017年" class="headerlink" title="2017年"></a>2017年</h2><p>![2017新兴技术成熟度曲线（来源：Gartner 2017年7月）][Gartner-Hype-Cycle-for-Emerging-Technologies/2017-gartner.jpg]</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;2017年&quot;&gt;&lt;a href=&quot;#2017年&quot; class=&quot;headerlink&quot; title=&quot;2017年&quot;&gt;&lt;/a&gt;2017年&lt;/h2&gt;&lt;p&gt;![2017新兴技术成熟度曲线（来源：Gartner 2017年7月）][Gartner-Hype-Cycle-fo
+      
+    
+    </summary>
+    
+    
+      <category term="技术趋势" scheme="http://liao-xi.com/tags/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo搭建Github博客配置</title>
